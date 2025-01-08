@@ -11,7 +11,7 @@ Data Science | Python | Azure | MLops
 
 ## About Me
 
-🙋🏻‍♂️ I’m a passionate in Data Science and ML/AI from **Vellore Institute of Technology (VIT)** 🎓, one of India's top 20 institutions 🏆, with a strong focus on exploring more and more. 
+🙋🏻‍♂️ I’m passionate in Data Science and ML/AI from **Vellore Institute of Technology (VIT)** 🎓, one of India's top 20 institutions 🏆, with a strong focus on exploring more and more. 
 
 My hands-on experience includes building **End-to-End Machine Learning Projects** and being seleced for Amazon ML Summer School.
 
